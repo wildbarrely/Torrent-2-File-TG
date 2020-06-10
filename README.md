@@ -10,8 +10,8 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ### Working Group
 Join For Downloading Without Doing Any Installation.
-*It's Free
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomputer.howstuffworks.com%2F5-signs-that-download-site-isnt-legit.htm&psig=AOvVaw1-i-TUwknAvrvAmVnd5KD5&ust=1591886982610000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD6tZq_9-kCFQAAAAAdAAAAABAD](https://tx.me/PUBLIC_LEECH_2)
+It's Free
+[![Telegram Fast Downloader](https://cdn.windowsreport.com/wp-content/uploads/2019/04/Download-SyncToy-o-886x590.png)](https://tx.me/PUBLIC_LEECH_2)
 
 ### The Legacy Way
 Simply clone the repository and run the main file:

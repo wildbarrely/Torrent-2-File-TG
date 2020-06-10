@@ -1,4 +1,4 @@
-# Telegram Torrent Leecher 🔥🤖
+# Telegram Torrent Downloader 🔥🤖
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -7,6 +7,11 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 ### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+### Working Group
+Join For Downloading Without Doing Any Installation.
+*It's Free
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomputer.howstuffworks.com%2F5-signs-that-download-site-isnt-legit.htm&psig=AOvVaw1-i-TUwknAvrvAmVnd5KD5&ust=1591886982610000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD6tZq_9-kCFQAAAAAdAAAAABAD](https://tx.me/PUBLIC_LEECH_2)
 
 ### The Legacy Way
 Simply clone the repository and run the main file:

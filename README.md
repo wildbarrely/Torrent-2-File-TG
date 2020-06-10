@@ -2,13 +2,13 @@
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-## installing
+## Installing
 
 ### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Working Group
+###### Working Group
 Join For Downloading Without Doing Any Installation.
 It's Free
 [![Telegram Fast Downloader](https://cdn.windowsreport.com/wp-content/uploads/2019/04/Download-SyncToy-o-886x590.png)](https://tx.me/PUBLIC_LEECH_2)
@@ -36,8 +36,6 @@ class Config(Config):
   API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
   AUTH_CHANNEL = -1001234567890
 ```
-
-### Variable Explanations
 
 ##### Mandatory Variables
 
